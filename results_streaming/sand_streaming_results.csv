@@ -1,0 +1,10 @@
+dataset,length,precision,recall,f1,auc
+normality_1_daphnet.npy,35840,0.015,0.015,0.015,0.478
+normality_1_genesis.npy,16220,0.044,0.044,0.044,0.167
+normality_1_nasa-msl.npy,3969,0.005,0.005,0.005,0.575
+normality_2_1_daphnet_genesis.npy,25820,0.056,0.056,0.056,0.52
+normality_2_2_daphnet_nasa-msl.npy,36279,0.035,0.035,0.035,0.439
+normality_2_3_genesis_nasa-msl.npy,18492,0.0,0.0,0.0,0.0
+normality_3_1_daphnet_genesis_nasa-msl.npy,54363,0.197,0.197,0.197,0.646
+normality_3_2_genesis_nasa-msl_daphnet.npy,53887,0.013,0.013,0.013,0.508
+normality_3_3_nasa-msl_daphnet_genesis.npy,27871,0.06,0.06,0.06,0.506
