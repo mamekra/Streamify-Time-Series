@@ -58,7 +58,7 @@ def run_isolation_forest(data, labels, name, results_dir):
 if __name__ == "__main__":
     # Configuration
     DATA_DIR    = "generated_datasets"
-    RESULTS_DIR = "tsb_uad_results_offline"
+    RESULTS_DIR = "tsb_uad_results_offline/if"
     os.makedirs(RESULTS_DIR, exist_ok=True)
 
     # Run streaming SAND on all datasets
